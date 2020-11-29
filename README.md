@@ -19,9 +19,13 @@ Users can search customers by typing the cusomter first or last name in the sear
 **Back End** Ruby on Rails, PostgreSQL
 
 ## How To Open
-1. Clone the code form GitHub onto your local machine 
-2. With Ruby already installed open the code in a text editor
-3. Run Bundle Install, Rails db:migrate, rails db:seed, rails s (make sure to open server on port 3000) 
+1. Clone the code from GitHub onto your local machine 
+2. With Ruby and Rails already installed, open the code in a text editor
+3. Run `bundle install`
+4. Run `rails db:create` 
+5. Run `rails db:migrate` 
+6. Run `rails db:seed` 
+7. Run `rails s` (make sure to open server on port 3000) 
 
 ## Contact
 You can find me on [LinkedIn](https://www.linkedin.com/in/jagrenier/)
