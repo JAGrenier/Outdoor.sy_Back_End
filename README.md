@@ -1,4 +1,4 @@
-# Outdoor.sy Customer Management Tool - Front End
+# Outdoor.sy Customer Management Tool - Back End
 Ourdoor.sy Customer Management Tool is an application for the mock company Outdoor.sy to list, search, and sort their customers. 
 [View Front End Repo](https://github.com/JAGrenier/Outdoor.sy_Front_End)
 
